@@ -1,6 +1,6 @@
 # Podman & OpenShift Command-Line Cheat Sheet
 
-> Companion to the Ansible Cheat Sheet's Section 26 (Podman) and Section 27 (OpenShift/Kubernetes) — this is the raw `podman`/`oc` CLI reference for interactive/day-to-day use, rather than the Ansible-automated equivalents.
+> This is the raw `podman`/`oc` CLI reference for interactive/day-to-day use.
 
 ---
 
