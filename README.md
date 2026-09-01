@@ -418,3 +418,5 @@ These are CLI shortcuts around the exact `Role`/`RoleBinding`/`ClusterRole`/`Clu
 
 - [OpenShift identity providers (OIDC/SAML) config](https://docs.redhat.com/en/documentation/openshift_container_platform/latest/html/authentication_and_authorization/index)
 - [Kubernetes OIDC authentication](https://kubernetes.io/docs/reference/access-control/authentication/#openid-connect-tokens) 
+
+Happy learning!
