@@ -1,6 +1,6 @@
-# Podman & OpenShift Command-Line Cheat Sheet
+# OpenShift & Podman Command-Line Cheat Sheet
 
-> This is the CLI reference for `podman`/`oc` interactive/day-to-day use.
+> This is the CLI reference for `oc`/`podman` interactive/day-to-day use.
 
 ---
 
